@@ -12,6 +12,3 @@ Step 6: take that print if u want to save that.
 -------------------------------------------------------------------------------------------
 Note: photo must be uploaded other wise it gonna give error
 
-
-thank you
-Druva 
